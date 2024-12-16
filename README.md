@@ -1,3 +1,4 @@
+![CharletaCraft2](img/CCHXMAS2024.png)
 🎄 Welcome to **CHARLETACRAFT XMAS HARDCORE 2024**, the third edition of our challenging Minecraft Hardcore series. Prepare for a serious survival experience this holiday season. 🎄
 
 ## 🎅 Overview 🎅
