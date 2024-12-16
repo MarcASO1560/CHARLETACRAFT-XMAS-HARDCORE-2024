@@ -1,8 +1,8 @@
 ![CharletaCraft2](img/CCHXMAS2024.png)
-🎄 Welcome to **CHARLETACRAFT XMAS HARDCORE 2024**, the third edition of our challenging Minecraft Hardcore series. Prepare for a serious survival experience this holiday season. 🎄
 
 ## 🎅 Overview 🎅
-
+🎄 Welcome to **CHARLETACRAFT XMAS HARDCORE 2024**, the third edition of our challenging Minecraft Hardcore series. Prepare for a serious survival experience this holiday season. 🎄
+---
 🎁 CHARLETACRAFT XMAS HARDCORE 2024 is a unique Minecraft server offering tough survival mechanics, festive mods, and deadly challenges. 🎁
 
 ## 🛠️ Key Features 🛠️
