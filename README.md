@@ -18,6 +18,10 @@
 ## 🌍 World Seed 🌍
 
 🔢 The seed for this world is: **100000010198755979**. Use it to recreate or explore this unique map on your own. (Out of server is obviously diferent, there is no snow, the server y precisely configured.) 🔢
+![CharletaCraft2](img/img1.png)
+![CharletaCraft2](img/img2.png)
+![CharletaCraft2](img/img3.png)
+![CharletaCraft2](img/img4.png)
 
 ## 🎮 How to Join 🎮
 
