@@ -8,7 +8,7 @@
 
 ## 🛠️ Key Features 🛠️
 
-- 🧡 **30 Hearts**: Start with 30 hearts. Death means permanent removal, with items cached to prevent looting.
+- 🧑❤ **30 Hearts**: Start with 30 hearts. Death means permanent removal, with items cached to prevent looting.
 - 💀 **One Life Only**: Survive as long as possible; one death ends your adventure.
 - 🌞🌒 **Extended Day/Night**: 45-minute days and 90-minute nights intensify survival.
 - ❄️ **Winter & Festivities**: Snow-covered map and Christmas-themed crafting items.
@@ -17,7 +17,7 @@
 
 ## 🌍 World Seed 🌍
 
-🔢 The seed for this world is: **100000010198755979**. Use it to recreate or explore this unique map on your own. (Out of server is obviously diferent, there is no snow, the server y precisely configured.) 🔢
+🔢 The seed for this world is: **100000010198755979**. Use it to recreate or explore this unique map on your own. (Out of server is obviously different, there is no snow, the server is precisely configured.) 🔢
 ![CharletaCraft2](img/img1.png)
 ![CharletaCraft2](img/img2.png)
 ![CharletaCraft2](img/img3.png)
@@ -26,12 +26,14 @@
 ## 🎮 How to Join 🎮
 
 1. 🖥️ **Install Minecraft**: Ensure version 1.20.1 is installed.
+   - If you have **Minecraft Premium**, download **Modrinth**: [https://modrinth.com](https://modrinth.com/app).
+   - If you have **Minecraft No Premium**, download **SKLauncher**: [https://sklauncher.com](https://skmedix.pl/es/downloads).
 2. 🌐 **Add the Server**:
    - **Server Name**: CHARLETACRAFT XMAS HARDCORE 2024
    - **Server Address**: ccxmhc2024.exaroton.me
 3. 🚪 **Connect and Play**: Select the server and start your adventure.
 
-## 📜 Rules 📜
+## 📝 Rules 📝
 
 🎄 Enjoy freedom and responsibility. Follow these rules to ensure fair play:
 
