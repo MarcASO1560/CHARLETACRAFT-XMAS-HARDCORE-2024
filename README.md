@@ -28,6 +28,7 @@
 1. 🖥️ **Install Minecraft**: Ensure version 1.20.1 is installed.
    - If you have **Minecraft Premium**, download **Modrinth**: [https://modrinth.com](https://modrinth.com/app).
    - If you have **Minecraft No Premium**, download **SKLauncher**: [https://sklauncher.com](https://skmedix.pl/es/downloads).
+   - In both cases, you need to download this file and import it as a modpack in each launcher: [CHARLETACRAFT XMAS HARDCORE 2024](https://drive.google.com/file/d/1It_elU3gcgjogCfjUU7ESA-HHhZHFNCu/view?usp=sharing)
 2. 🌐 **Add the Server**:
    - **Server Name**: CHARLETACRAFT XMAS HARDCORE 2024
    - **Server Address**: ccxmhc2024.exaroton.me
