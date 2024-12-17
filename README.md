@@ -43,7 +43,7 @@
 
 ## 🤝 Community & Support 🤝
 
-🎅 Join our [Discord Server](#) to connect with players, get assistance, and participate in discussions. 🎅
+🎅 Join our [Discord Server](https://discord.gg/hrHBGrMJ) to connect with players and get assistance. 🎅
 
 ## 🎁 Get Involved 🎁
 
